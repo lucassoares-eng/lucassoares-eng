@@ -69,10 +69,10 @@
           <td style="border: none;">
             <h3>👨‍💻 Professional Journey</h3>
             <ul style="list-style: none; padding: 0; margin: 0;">
-              <li>🚀 Transforming businesses with strategy, innovation, and excellence</li>
+              <li>🚀 Transforming businesses with strategy,</li>innovation, and excellence</li>
               <li>📚 Data Science Student at <b>Udemy</b></li>
               <li>🎯 Focusing on <b>Deep Learning</b> & <b>LLM Agents</b></li>
-              <li>🌱 Building robust <b>Backend Systems</b> and <b>User-friendly Frontends</b></li>
+              <li>🌱 Building robust <b>Backend Systems</b></li>and <b>User-friendly Frontends</b></li>
               <li>⚡ Always exploring new technologies</li>
             </ul>
           </td>
@@ -86,7 +86,7 @@
           <td style="border: none;">
             <h3>🛠️ Core Competencies</h3>
             <ul style="list-style: none; padding: 0; margin: 0;">
-              <li><b>AI/ML</b>: Deep Learning, Neural Networks, Spark, Keras</li>
+              <li><b>AI/ML</b>: Deep Learning, Neural Networks,</li>Spark, Keras</li>
               <li><b>Backend</b>: Flask, Django, FastAPI, REST APIs</li>
               <li><b>Frontend</b>: HTML, CSS, ReactJS, Angular </li>
               <li><b>Languages</b>: Python, JavaScript</li>
