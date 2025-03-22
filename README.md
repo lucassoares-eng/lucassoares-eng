@@ -28,7 +28,7 @@
 
 <p>
 
-**🚀 With 14+ years of experience, I have built a solid career in business leadership, managing high-performance teams and driving large-scale strategic projects in operations, innovation, and digital transformation.**
+**🚀 With 15+ years of experience, I have built a solid career in business leadership, managing high-performance teams and driving large-scale strategic projects in operations, innovation, and digital transformation.**
 
 **🌱 I’m currently learning Tensorflow, Keras, RAG, LLM Agents and Apache Spark**
 
